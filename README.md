@@ -1,0 +1,1 @@
+A small script for calculation the ideal weights of different fertilizers in order to achiver optimal weight concentration in a solution (N-P-K) [w %]
